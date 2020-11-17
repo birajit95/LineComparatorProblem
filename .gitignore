@@ -1,2 +1,4 @@
 *.xml
+.classpath
+.project
 
